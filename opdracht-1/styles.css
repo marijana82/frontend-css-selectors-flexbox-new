@@ -18,4 +18,24 @@
     align-items: center;
 }
 
+.three {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+ul {
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
+}
+
+li {
+    padding: 10px;
+}
+
+
+
+
 
